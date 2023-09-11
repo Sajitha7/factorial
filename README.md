@@ -7,7 +7,7 @@ Features : Recursive Factorial Calculation, Input Validation, Repetitive Calcula
 
 
 
-Usage:
+Usage :
 
 Run the script in a Python environment. 
 
@@ -19,12 +19,12 @@ If you want to calculate another factorial then enter "yes" when prompted, or ex
 
 
 
-Requirements:
+Requirements :
 
 Python 3.x
 
 
 
-License:
+License :
 
 This code is licensed under the MIT License. Feel free to modify and use it in your projects.
