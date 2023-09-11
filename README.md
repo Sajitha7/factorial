@@ -11,11 +11,11 @@ Usage:
 
 Run the script in a Python environment. 
 
-Enter a non-negative integer when prompted. If an invalid input is provided, the program will display an error message and prompt for a valid input. 
+Enter a non-negative integer when prompted.
 
 The program will calculate and display the factorial of the entered number. 
 
-You can choose to calculate another factorial by entering "yes" when asked, or exit the program by entering "no."
+If you want to calculate another factorial then enter "yes" when prompted, or exit the program by entering "no."
 
 
 
