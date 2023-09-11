@@ -6,6 +6,7 @@ This Python program is a factorial calculator that allows the user to calculate 
 Features : Recursive Factorial Calculation, Input Validation, Repetitive Calculations.
 
 
+
 Usage:
 
 Run the script in a Python environment. 
@@ -16,9 +17,12 @@ The program will calculate and display the factorial of the entered number.
 
 You can choose to calculate another factorial by entering "yes" when asked, or exit the program by entering "no."
 
+
+
 Requirements:
 
 Python 3.x
+
 
 
 License:
